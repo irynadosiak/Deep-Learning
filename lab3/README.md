@@ -14,5 +14,5 @@
 - I divided the data into training (80%) and test (20%). Then, using linear regression from the sklearn library, IS designed Linear Regression.
 - The accuracy was 90%.
 <p align="center">
- ![Screenshot (857)](https://user-images.githubusercontent.com/43314418/134784502-e4c94d61-ee5c-4094-81b4-d70e7b774c74.png)
+ <img scr=(https://user-images.githubusercontent.com/43314418/134784502-e4c94d61-ee5c-4094-81b4-d70e7b774c74.png)>
 </p>
