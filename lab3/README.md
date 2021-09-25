@@ -13,5 +13,4 @@
 - For B, I used a target.
 - I divided the data into training (80%) and test (20%). Then, using linear regression from the sklearn library, IS designed Linear Regression.
 - The accuracy was 90%.
-- 
 ![Screenshot (857)](https://user-images.githubusercontent.com/43314418/134784571-57c13c95-b06f-48a2-b2c7-b36d6b014f56.png)
