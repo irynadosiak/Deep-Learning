@@ -16,3 +16,9 @@
 - The accuracy was 90%.
 
 ![Screenshot (857)](https://user-images.githubusercontent.com/43314418/134784571-57c13c95-b06f-48a2-b2c7-b36d6b014f56.png)
+
+**Design 3 Dense Neural Networks (DNN):**
+- **(DNN1) with 1 hidden layer**
+- **(DNN2) with 5 hidden layers**
+- **(DNN3) with 25 hidden layers**
+
