@@ -6,3 +6,10 @@
  - After that, I tried to build a relationship between the target and the features.
  - I also normalized the data by MinMax. The generated dataset looks like this:
 ![Screenshot (855)](https://user-images.githubusercontent.com/43314418/134784256-ba14c94f-0868-41a9-abe1-0a059d991582.png)
+
+**Design Linear Regression (LR) as a benchmark**
+
+- For X I used 3 columns: pedigree_function (the presence of the disease in relatives), glucose (sugar level), insulin (hormone). Analyzing the medical literature, I learned that these three indicators have the greatest impact on the presence of diabetes.
+- For B, I used a target.
+- I divided the data into training (80%) and test (20%). Then, using linear regression from the sklearn library, IS designed Linear Regression.
+- The accuracy was 90%.
