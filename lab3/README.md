@@ -25,11 +25,11 @@ All features are independent of each other, and the target is dependent on featu
 - **(DNN3) with 25 hidden layers**
 
 **Prepare 3 optimizers**:
-- (OPT1) SGD
-- (OPT2) RMSProp
-- (OPT3) Adam
+- **(OPT1) SGD**
+- **(OPT2) RMSProp**
+- **(OPT3) Adam**
 
 **Explore the following learning rates**:
-- (lr1) 0.1
-- (lr2) 0.01
-- (lr3) 0.001
+- **(lr1) 0.1**
+- **(lr2) 0.01**
+- **(lr3) 0.001**
