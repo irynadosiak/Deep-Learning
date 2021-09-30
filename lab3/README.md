@@ -19,20 +19,10 @@ All features are independent of each other, and the target is dependent on featu
 - I divided the data into training (80%) and test (20%). Then shuffled them and, using linear regression from the sklearn library, IS designed Linear Regression.
 - The MSE was 0.006295969155164378.
 
-**Design 3 Dense Neural Networks:**
-- **(DNN1) with 1 hidden layer**
-- **(DNN2) with 5 hidden layers**
-- **(DNN3) with 25 hidden layers**
-
-**Prepare 3 optimizers**:
-- **(OPT1) SGD**
-- **(OPT2) RMSProp**
-- **(OPT3) Adam**
-
-**Explore the following learning rates**:
-- **(lr1) 0.1**
-- **(lr2) 0.01**
-- **(lr3) 0.001**
+**Design 3 Dense Neural Networks with 3 optimizers and three different learning rates:**
+- **(DNN1) with 1 hidden layer**, **(DNN2) with 5 hidden layers**, **(DNN3) with 25 hidden layers**.
+- **(OPT1) SGD**, **(OPT2) RMSProp**, **(OPT3) Adam**.
+- **(lr1) 0.1**, **(lr2) 0.01**, **(lr3) 0.001**.
 
 The results, namely MSE for all models, are saved in results.xlsx. They look like this:
 
