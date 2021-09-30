@@ -34,5 +34,3 @@ Learning curves plots are saved in results. Totally, there are 27 graphics.
 - **Optimizer**: Adam shows the best results. Moreover, it works best with a small learning rate. RMS shows good results for 1 layer, 0.01 learning rate and for 5 layers, 0.1 learning rate. As for SGD, it shows good results for 0.1 learning rate.
 - **Learning rate**: If a learning rate is large, the neural network does not learn well. 
 - **DNN architecture**: If there are many hidden layers, they can slow down training. If not enough, the accuracy may be low. For example, the result is the best for 5 layers. 1 layer is not enough, 25 is too much.
-
-
