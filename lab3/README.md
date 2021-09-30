@@ -33,3 +33,16 @@ All features are independent of each other, and the target is dependent on featu
 - **(lr1) 0.1**
 - **(lr2) 0.01**
 - **(lr3) 0.001**
+
+The results, namely MSE for all models, are saved in results.xlsx. They look like this:
+
+![Screenshot (896)](https://user-images.githubusercontent.com/43314418/135447985-9afe644d-cd74-4d3e-aab9-a4f83190c414.png)
+
+Learning curves plots are saved in results. Totally, there are 27 graphics.
+
+**Conclusions:**
+- **Optimizer**: 
+- **Learning rate**:
+- **DNN architecture**:
+
+
