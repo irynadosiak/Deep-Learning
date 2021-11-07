@@ -29,6 +29,7 @@ Also the work contains different activation functions to all your layers (at onc
 - elu
 - selu
 - gelu
+
 Moreover, the notebook Predicting House Prices.ipynb includes the implementations of all the callbacks (Early Stopping, LR Decay on Plateau, ModelCheckpoint) in all the subsequent setups.
 TensorBoard dashboards with learning curves (train and validation) are included to every experiment reported in the notebook.
 
