@@ -21,6 +21,7 @@ Contains implementing DNN for Predicting House Prices. K-Fold cross-validation, 
 - GlorotNormal
 - HeNormal
 - LeCunNormal
+
 Also the work contains different activation functions to all your layers (at once) - except the output layer: 
 - sigmoid
 - tanh
