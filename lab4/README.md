@@ -44,3 +44,7 @@ Shows how to install and use TensorBoard dashboard.
 **Exercises.ipynb**
 
 Includes every exercise execution (https://d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html#exercises). In addition, there is a brief summary of what approach worked best and what was the most influential change.
+
+**Results**
+![Screenshot (1264)](https://user-images.githubusercontent.com/43314418/140904818-adb0a08b-3c4b-44d5-b7b5-33aa4b29c647.png)
+
