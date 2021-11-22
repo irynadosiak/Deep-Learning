@@ -15,8 +15,10 @@ Attach train/validation results reported in the following form:
 
 Visualize filters aligned with corresponding activation maps
 
-**Results**
+### Results
 
-### 3-layer CNN - 9.3% 
-### Frozen pre-trained ResNet as feature extractor - 2.9%
-### Fine-tuned pre-trained ResNet - 4.6%
+- 3-layer CNN - 9.3% 
+- Frozen pre-trained ResNet as feature extractor - 2.9%
+- Fine-tuned pre-trained ResNet - 4.6%
+
+Frozen pre-trained ResNet as feature extractor is the best!
